@@ -20,3 +20,11 @@ Avengers EndGame InfinityWar
 
 
 # Solution:-
+
+no=int(input())
+a=input().split()
+l=[]
+a.sort()
+for i in a:
+  l.append(i)
+print(*l)
