@@ -12,7 +12,6 @@ OUTPUT
 
 
 
-
 # Solution:-
 arr = list(map(int,input().split()))
 print(min(arr))
