@@ -10,6 +10,7 @@ Output contains 5 lines with each line having the value N.
 
 Sample Input :
 4
+
 Sample Output :
 4
 4
