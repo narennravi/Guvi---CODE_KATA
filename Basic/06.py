@@ -8,6 +8,7 @@ Input
 The input contains two numbers in every line. These two numbers in each line denotes the number ninjas in Kabali's clan and his opponent's clan. 
 print the absolute difference of number of ninjas between Kabali's clan and his opponent's clan. Each output should be in seperate line.
 
+
 Sample Testcase :
 INPUT
 100 200
