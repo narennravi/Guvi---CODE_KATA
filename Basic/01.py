@@ -11,6 +11,7 @@ Print the even values from 1 to N in a separate line.
 
 Sample Input :
 6
+
 Sample Output :
 2
 4
