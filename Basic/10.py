@@ -10,6 +10,7 @@ Print the values from 1 to N in a separate line.
 
 Sample Input :
 5
+
 Sample Output :
 1
 2
