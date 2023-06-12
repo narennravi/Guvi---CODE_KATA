@@ -10,6 +10,7 @@ Print the sum of values from 1 to N.
 
 Sample Input :
 10
+
 Sample Output :
 55
 '''
