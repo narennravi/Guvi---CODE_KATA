@@ -10,6 +10,7 @@ Print the digits of the integer in a single line separated by space,
 
 Sample Input :
 348
+
 Sample Output :
 3 4 8
 '''
