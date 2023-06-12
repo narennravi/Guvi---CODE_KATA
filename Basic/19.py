@@ -10,6 +10,7 @@ Print the smallest perfect power of 2 greater than n.
 
 Sample Input :
 48
+
 Sample Output :
 64
 '''
