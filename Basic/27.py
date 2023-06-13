@@ -10,6 +10,7 @@ Print the integer A, N times in a separate line.
 
 Sample Input :
 2 3
+
 Sample Output :
 2
 2
