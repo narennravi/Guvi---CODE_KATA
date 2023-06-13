@@ -10,6 +10,7 @@ Print the sum of the digits of the integer.
 
 Sample Input :
 124
+
 Sample Output :
 7
 '''
