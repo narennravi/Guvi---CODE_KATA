@@ -10,6 +10,7 @@ Print the LCM of the values.
 
 Sample Input :
 1 2 3 4 5
+
 Sample Output :
 60
 '''
