@@ -10,6 +10,7 @@ Print the even and odd integers of the integer in a separate line.
 
 Sample Input :
 1234
+
 Sample Output :
 2 4
 1 3
