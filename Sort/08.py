@@ -16,6 +16,7 @@ Sample Input :
 A 34 89 98
 B 98 87 98
 C 87 67 98
+
 Sample Output :
 A 34 89 98
 B 98 87 98
