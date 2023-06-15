@@ -13,6 +13,7 @@ print the smallest positive number ‘m’.
 Sample Input :
 5
 1 2 10 12 13
+
 Sample Output :
 4
 '''
