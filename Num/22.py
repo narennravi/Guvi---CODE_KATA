@@ -11,6 +11,7 @@ Print the smallest number
 
 Sample Input :
 145
+
 Sample Output :
 145
 '''
