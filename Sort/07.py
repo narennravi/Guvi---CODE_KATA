@@ -19,6 +19,7 @@ Sample Input :
 1 1 1 2 2 2 3 8 9 7
 5
 1 2 3 0 5
+
 Sample Output :
 3 3 1 Not Present Not Present
 '''
