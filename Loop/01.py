@@ -11,6 +11,7 @@ Print the HCF of the integers.
 
 Sample Input :
 2 3
+
 Sample Output :
 1
 '''
