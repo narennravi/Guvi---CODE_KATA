@@ -11,6 +11,7 @@ Print the smallest possible number of same length
 
 Sample Input :
 123456789123456789
+
 Sample Output :
 112233445566778899
 '''
