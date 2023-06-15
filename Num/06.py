@@ -11,6 +11,7 @@ Print the difference of indices of largest and smallest array
 Sample Input :
 5
 1 6 4 0 3
+
 Sample Output :
 -2
 '''
