@@ -14,6 +14,7 @@ Sample Input :
 Input
 4
 23 MARCH 1996 23 MARCH 1986 22 JULY 1987 23 APRIL 1987
+
 Sample Output :
 2 3
 '''
