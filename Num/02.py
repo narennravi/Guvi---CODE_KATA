@@ -11,6 +11,7 @@ Print the number with maximum frequency. If two number have equal freqency prin 
 Sample Input :
 7
 1 2 3 4 4 4 5
+
 Sample Output :
 4
 '''
