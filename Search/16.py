@@ -18,6 +18,7 @@ The first line of input contains an integer T denoting the number of test cases.
 Output Description:
 Print the total number of buildings which will see the sunset.
 
+
 Sample Input :
 2
 5
