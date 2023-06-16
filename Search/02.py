@@ -11,9 +11,11 @@ Second line contains the marks of all students in the class.
 Output Description:
 Index of student who got mark same as Ramesh’s mark. If no such mark exists, return -1.
 
+
 Sample Input :
 2 10
 1 2
+
 Sample Output :
 -1
 '''
