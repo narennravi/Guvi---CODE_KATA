@@ -6,13 +6,9 @@ Find out the package number of the package that gets stolen from one of the batc
 
 
 Constraints:
-
 1<=T<=100
-
 1<=N<=100
-
 1<=Ai<=1000
-
 
 
 Input Description:
@@ -24,6 +20,7 @@ The Third line of each test case contains N-1 space separated number of items in
 Output Description:
 Return the package number of the corresponding package stolen from Batch B. The array index denotes the package number.
 
+
 Sample Input :
 2
 7
@@ -32,6 +29,7 @@ Sample Input :
 6
 3 5 7 9 11 13
 3 5 7 11 13
+
 Sample Output :
 4
 3
