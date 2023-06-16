@@ -15,9 +15,11 @@ The first line contains a positive integer N, denoting the size of the array. Th
 Output Description:
 Print out the singly occurring number. print 0 if no numbers are repeating.
 
+
 Sample Input :
 5
 1 1 2 5 5
+
 Sample Output :
 2
 '''
