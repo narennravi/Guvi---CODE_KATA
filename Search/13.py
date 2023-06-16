@@ -5,10 +5,9 @@ The one having scored the maximum gets a treat from the other. They decide to go
 You are Rajesh’s best friend and as he has tutions to attend, he gives you all his test papers and asks you to find out the maximum marks that he has scored among all the marks in all exams.
 He promises you a treat if he wins the bet with Ram. Help Rajesh find out his highest marks.
 
+
 Constraints:
-
 1 <= N <= 10
-
 0 <= A[] <= 100
 
 Input Description:
@@ -20,6 +19,7 @@ Highest marks obtained by Rajesh.
 Sample Input :
 3
 82 96 72
+
 Sample Output :
 96
 '''
