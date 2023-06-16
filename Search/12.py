@@ -6,7 +6,6 @@ You must compute the number of times Ram and Sita have won the game, individuall
 
 Note : Elements in table can only be either 1 or 0.
 
-
 Input Description:
 First line contains two space separated integers M,N denoting the size of the 2d matrix . Then in the next lines are the space separated values of the matrix mat[ ] [ ] . Constraints: 1<=M,N<=50 ,0<=mat[][]<=1
 
@@ -16,6 +15,7 @@ The output will be the number of 0s and number of 1s, displayed separately.
 Sample Input :
 1 3
 1 1 1
+
 Sample Output :
 RAM: 0
 SITA: 3
