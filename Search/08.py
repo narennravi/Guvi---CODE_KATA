@@ -8,16 +8,17 @@ Ram immediately regrets not having done any trade in that particular period. Fin
 Constraints:
 3 ≤ N ≤ 106
 
-
 Input Description:
 The size of array N, the number of periods Ram has assessed. The values of the array are the values of the sensex points.
 
 Output Description:
 Period in which the points was at its max value. The array index is the period value.
 
+
 Sample Input :
 9
 1 15 25 45 42 21 17 12 11
+
 Sample Output :
 3
 '''
