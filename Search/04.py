@@ -14,6 +14,7 @@ Second largest element of the array.
 Sample Input :
 10
 1 9 8 7 6 5 2 3 4 10
+
 Sample Output :
 9
 '''
