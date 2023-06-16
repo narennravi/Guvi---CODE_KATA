@@ -12,6 +12,7 @@ First line contains the dimensions of the prison matrix, followed by the ids of 
 Output Description:
 (yes/no) whether the given element is present in the matrix or not.
 
+
 Sample Input :
 2 5
 2 3 0 7 1 5 3 4 1 8
