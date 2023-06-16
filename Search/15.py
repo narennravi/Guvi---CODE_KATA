@@ -12,9 +12,11 @@ First line contains the number of entries in the attendance register, followed b
 Output Description:
 ‘Blacklisted’ if attendance is below 25% ‘Not Blacklisted’ if attendance is above 25%
 
+
 Sample Input :
 5
 P P A A A
+
 Sample Output :
 Not Blacklisted
 
