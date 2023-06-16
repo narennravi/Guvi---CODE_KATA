@@ -7,11 +7,8 @@ As Ram is not good in either maths or logic, he is unable to solve the puzzle. H
 Note: An element in an array is a leader if it is greater than or equal to all the elements to its right side. Also, the rightmost element is always a leader.
 
 Constraints:
-
 1 <= N <= 100
-
 0 <= A[i] <= 100
-
 
 
 Input Description:
@@ -20,9 +17,11 @@ The first line contains a single integer N denoting the size of array. The secon
 Output Description:
 Print all the leaders.
 
+
 Sample Input :
 6
 16 17 4 3 5 2
+
 Sample Output :
 17 5 2
 '''
