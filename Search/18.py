@@ -15,6 +15,7 @@ The first line contains a positive integer N, denoting the size of the array. Th
 Output Description:
 Print out the singly occurring number.
 
+
 Sample Input :
 5
 1 1 2 5 5
