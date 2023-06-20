@@ -1,0 +1,28 @@
+# Question:-
+'''
+Given a number N, print the sum of squares of all its digits.
+Input Size : 1 <= N <= 100000
+
+
+Sample Testcase :
+INPUT
+12
+
+OUTPUT
+5
+'''
+
+
+
+
+# Solution:-
+
+N=int(input())
+sum=0
+while N>0:
+  a=N%10
+  #print(a)
+  sum=sum+(pow(a,2))
+  #print("   ",sum)
+  N=N//10
+print(sum)
