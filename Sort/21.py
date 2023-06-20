@@ -1,7 +1,8 @@
 # Question:-
 '''
 Merge Sort follows the rule of Divide and Conquer to sort a given set of numbers/elements, recursively, hence consuming less time.
-In Merge Sort, the given unsorted array with N  elements, is divided into N subarrays, each having one element, because a single element is always sorted in itself. Then, it repeatedly merges these subarrays, to produce new sorted subarrays, and in the end, one complete sorted array is produced.
+In Merge Sort, the given unsorted array with N  elements, is divided into N subarrays, each having one element, because a single element is always sorted in itself.
+Then, it repeatedly merges these subarrays, to produce new sorted subarrays, and in the end, one complete sorted array is produced.
 
 
 The concept of Divide and Conquer involves three steps:
